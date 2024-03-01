@@ -97,7 +97,7 @@ export default async function Blog() {
 
                     <div className="mt-5 pt-10 lg:w-2/3 lg:flex-none lg:px-4 lg:pt-0">
                       <h2 className="font-display text-1xl font-semibold text-neutral-950">
-                      Your rights concerning personal data processing:
+                        Your rights concerning personal data processing:
                       </h2>
                     </div>
                     
@@ -112,6 +112,12 @@ export default async function Blog() {
                         User has the right to submit a complaint to supervisory organs engaging in the security of personal data.
                         </li>
                       </ul>
+                    </div>
+
+                    <div className='pt-5'>
+                      <p className=''>
+                        <strong>&quot;CodeField&quot;</strong> Krzysztof Kulczycki, <strong>NIP: </strong>9542735004, <strong>Regon: </strong>361376850 
+                      </p>
                     </div>
                   </div>
                 </Border>
